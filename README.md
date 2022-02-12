@@ -4,7 +4,7 @@
  
 
 #### Link do projeto
-[Link](https://marlin-case-1.verce)
+[Link](https://marlin-case-1.vercel.app/)
 
 
 
