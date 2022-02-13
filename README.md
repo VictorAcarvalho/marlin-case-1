@@ -3,4 +3,10 @@
 #### Etapa 1 - Fazer o HTML/CSS estático e responsivo de acordo com a imagem em anexo.
  
 
- 
+#### Link do projeto
+[Link](https://marlin-case-1.vercel.app/)
+
+
+
+
+
